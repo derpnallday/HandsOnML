@@ -1,3 +1,3 @@
 # HandsOnML
 
-Exercises from **Hands-On Machine Learning with Scikit-Learn & TensorFlow** by Aurelien Geron
+Exercises and notes from **Hands-On Machine Learning with Scikit-Learn & TensorFlow** by Aurelien Geron.
